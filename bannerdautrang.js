@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://www.facebook.com/nguyenlieutre/' target='_blank'><img src='https://www.facebook.com/nguyenlieutre/photos/pcb.493767287690622/493766321024052/?type=3' width='500px'/><br/>13 Nguồn nguyên liệu dồi vào</a>. lH 0944154086. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://www.facebook.com/nguyenlieutre/' target='_blank'><img src='https://4.bp.blogspot.com/-EACirWi58_I/WhgQKW-qusI/AAAAAAAAJY8/WnU7MshnSeEx8J9zCOAcgjVA3ECwufVOwCLcBGAs/s320/abc.jpg' width='500px'/><br/>13 Nguồn nguyên liệu dồi vào</a>. lH 0944154086. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
