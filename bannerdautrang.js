@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://www.facebook.com/nguyenlieutre/' target='_blank'><img src='https://4.bp.blogspot.com/-EACirWi58_I/WhgQKW-qusI/AAAAAAAAJY8/WnU7MshnSeEx8J9zCOAcgjVA3ECwufVOwCLcBGAs/s320/abc.jpg' width='500px'/><br/>Nguồn nguyên liệu tre giá tốt</a>. lH 0944154086. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://2.bp.blogspot.com/-XDu46B6pOtQ/WiNzH2ysqOI/AAAAAAAAJbs/GaSLISIK_zsVGG859iE8ojfpX9_kX3t2QCLcBGAs/s320/19420419_425288487871836_7038272198064101975_n.jpg'/><br/>Nguồn nguyên liệu tre giá tốt</a>. lH 0944154086. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
